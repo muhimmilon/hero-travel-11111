@@ -1546,11 +1546,11 @@
         top: 2px;
       }
       .landing-page-design .img-2 {
-        height: 24px;
+        height: 19.5px;
         left: 0;
         position: absolute;
         top: 0;
-        width: 24px;
+        width: 19.5px;
       }
       .landing-page-design .group-5 {
         height: 466px;
@@ -1981,7 +1981,7 @@
       .landing-page-design .text-wrapper-23 {
         color: #131318;
         font-family: "Mulish-ExtraBold", Helvetica;
-        font-size: 24px;
+        font-size: 20px;
         font-weight: 800;
         left: 0;
         letter-spacing: 0;
@@ -2036,70 +2036,69 @@
         left: 0;
         position: absolute;
         top: 48px;
-        width: 458px;
+        width: 250px;
       }
       .landing-page-design .text-wrapper-24 {
         color: #ff5400;
         font-family: "Mulish-ExtraBold", Helvetica;
-        font-size: 20px;
+        font-size: 14px;
         font-weight: 800;
         left: 0;
         letter-spacing: 0;
-        line-height: normal;
+        line-height:24px;
         position: absolute;
-        top: 140px;
+        top: 155px;
       }
       .landing-page-design .amet-consectetur-3 {
         color: #5a5a5d;
         font-family: "Mulish-Regular", Helvetica;
-        font-size: 16px;
+        font-size: 14px;
         font-weight: 400;
         left: 0;
         letter-spacing: 0;
-        line-height: 26px;
+        line-height: 24px;
         position: absolute;
-        top: 46px;
-        width: 452px;
+        top: 30px;
+        width: 250px;
       }
       .landing-page-design .group-22 {
-        height: 52px;
+        height: 40px;
         left: 0;
         position: absolute;
-        top: 189px;
-        width: 150px;
+        top: 180px;
+        width: 130px;
       }
       .landing-page-design .group-23 {
-        height: 52px;
+        height: 40px;
       }
       .landing-page-design .group-24 {
-        height: 52px;
-        width: 152px;
+        height: 40px;
+        width: 130px;
       }
       .landing-page-design .overlap-group-2 {
         background-color: #ff5400;
         border-radius: 8px;
-        height: 52px;
+        height: 40px;
         position: relative;
-        width: 150px;
+        width: 130px;
       }
       .landing-page-design .text-wrapper-25 {
-        color: #ffffff;
-        font-family: "Mulish-ExtraBold", Helvetica;
-        font-size: 20px;
-        font-weight: 800;
-        left: 25px;
-        letter-spacing: 0;
-        line-height: normal;
-        position: absolute;
+        color: #FFF;
         text-align: center;
-        top: 14px;
+        font-family: Mulish;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
       }
       .landing-page-design .group-25 {
-        height: 50px;
+        height: 150px;
         left: 0px;
         position: absolute;
         top: 0px;
         width: 200px;
+        display:flex;
+        flex-direction: column;
       }
       .landing-page-design .group-26 {
         height: 24px;
@@ -2107,7 +2106,6 @@
         position: absolute;
         top: 0px;
         width: 145px;
-        display: inline-flex;
       }
       .landing-page-design .text-wrapper-26 {
         color: #5a5a5d;
@@ -2117,8 +2115,8 @@
         left: 32px;
         letter-spacing: 0;
         line-height: normal;
-        position: absolute;
-        top: 2px;
+        position:relative;
+        top: 0px;
       }
       .landing-page-design .group-27 {
         height: 24px;
@@ -2139,10 +2137,11 @@
         background-position: 50% 50%;
         background-size: cover;
         height: 500px;
-        left: 135px;
+        left: 20px;
         position: absolute;
-        top: 4700px;
-        width: 1170px;
+        top: 4800px;
+        width: 335px;
+        border-radius: 16px;
       }
       .landing-page-design .group-30 {
         -webkit-backdrop-filter: blur(5px) brightness(100%);
@@ -2151,11 +2150,11 @@
         border: 2px solid;
         border-color: #ffffff;
         border-radius: 16px;
-        height: 389px;
-        left: 56px;
+        height: 297px;
+        left: 16px;
         position: relative;
-        top: 56px;
-        width: 579px;
+        top: 187px;
+        width: 303px;
       }
       .landing-page-design .group-31 {
         background-image: url(../Images/Group\ 39.png);
@@ -2164,12 +2163,13 @@
         height: 500px;
         left: 0px;
         position: absolute;
-        top: 524px;
-        width: 1170px;
+        top: 525px;
+        width: 335px;
+        border-radius: 16px;
       }
       .landing-page-design .group-32 {
         height: 52px;
-        left: 480px;
+        left: 25%;
         position: absolute;
         top: 1072px;
         width: 210px;
@@ -2205,32 +2205,32 @@
         height: 424px;
         left: 0px;
         position: absolute;
-        top: 1192px;
-        width: 540px;
+        top: 1142px;
+        width: 335px;
       }
       .landing-page-design .text-wrapper-28 {
         color: #131318;
         font-family: "Mulish-ExtraBold", Helvetica;
-        font-size: 40px;
+        font-size: 20px;
         font-weight: 800;
         left: 0;
         letter-spacing: 0;
-        line-height: 60px;
+        line-height: 30px;
         position: absolute;
         top: 0;
-        width: 448px;
+        width: 238px;
       }
       .landing-page-design .amet-consectetur-4 {
         color: #5a5a5d;
         font-family: "Mulish-Regular", Helvetica;
-        font-size: 16px;
+        font-size: 14px;
         font-weight: 400;
         left: 0;
         letter-spacing: 0;
-        line-height: 26px;
+        line-height: 24px;
         position: absolute;
-        top: 144px;
-        width: 532px;
+        top: 80px;
+        width: 335px;
       }
       .landing-page-design .group-35 {
         border-radius: 8px;
@@ -2239,64 +2239,65 @@
         height: 52px;
         left: 0;
         position: absolute;
-        top: 372px;
+        top: 352px;
         width: 174px;
       }
       .landing-page-design .text-wrapper-29 {
         color: #131318;
         font-family: "Mulish-Bold", Helvetica;
-        font-size: 16px;
+        font-size: 14px;
         font-weight: 700;
         left: 0;
         letter-spacing: 0;
-        line-height: 26px;
+        line-height: 24px;
         position: absolute;
-        top: 220px;
-        width: 518px;
+        top: 180px;
+        width: 335px;
       }
       .landing-page-design .text-wrapper-30 {
         color: #131318;
         font-family: "Mulish-Bold", Helvetica;
-        font-size: 16px;
+        font-size: 14px;
         font-weight: 700;
         left: 0;
         letter-spacing: 0;
-        line-height: 26px;
+        line-height: 24px;
         position: absolute;
-        top: 288px;
-        width: 518px;
+        top: 248px;
+        width: 335px;
       }
       .landing-page-design .group-37 {
         background-image: url(../Images/Group\ 40089.png);
         background-position: 50% 50%;
         background-size: cover;
-        height: 424px;
-        left: 555px;
+        height: 200px;
+        left: 0px;
         position: absolute;
-        top: 1192px;
-        width: 610px;
+        top: 1592px;
+        width: 335px;
+        border-radius: 16px;
       }
       .landing-page-design .overlap-9 {
         border-radius: 16px;
-        height: 424px;
+        height: 200px;
         position: relative;
       }
       .landing-page-design .rectangle-2 {
         background: linear-gradient(180deg, rgb(19, 19, 24) 0%, rgba(19, 19, 24, 0) 100%);
         border-radius: 16px;
-        height: 424px;
+        height: 200px;
         left: 0;
         position: absolute;
         top: 0;
         transform: rotate(-180deg);
-        width: 610px;
+        width: 335px;
       }
       .landing-page-design .group-38 {
         height: 4px;
-        left: 24px;
+        left: 20px;
         position: absolute;
-        top: 395px;
-        width: 562px;
+        top: 170px;
+        width: 303px;
       }
       .landing-page-design .group-39 {
         height: 4px;
@@ -2305,7 +2306,7 @@
         background-color: #ffffff4c;
         border-radius: 8px;
         height: 4px;
-        width: 562px;
+        width: 303px;
       }
       .landing-page-design .group-41 {
         background-color: #ffffff;
@@ -2317,7 +2318,7 @@
         height: 24px;
         left: 24px;
         position: absolute;
-        top: 355px;
+        top: 135px;
         width: 100px;
       }
       .landing-page-design .group-43 {
@@ -2342,31 +2343,32 @@
       }
       .landing-page-design .group-45 {
         height: 24px;
-        left: 482px;
+        left: 250px;
         position: absolute;
-        top: 355px;
+        top: 135px;
         width: 104px;
       }
       .landing-page-design .gr45{
-        display: inline-flex;
-        gap: 2px; 
+        display:grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px; 
         width: 20px;
       }
       .landing-page-design .group-46 {
         height: 72px;
-        left: 167px;
+        left: 20px;
         position: absolute;
-        top: 176px;
+        top: 50px;
         width: 278px;
       }
       .landing-page-design .text-wrapper-32 {
         color: #ffffff;
         font-family: "Mulish-Bold", Helvetica;
-        font-size: 24px;
+        font-size: 20px;
         font-weight: 700;
         left: 0;
         letter-spacing: 0;
-        line-height: 36px;
+        line-height: 30px;
         position: absolute;
         text-align: center;
         top: 0;
@@ -2430,60 +2432,60 @@
         height: 422px;
         left: 0px;
         position: absolute;
-        top: 1716px;
-        width: 474px;
+        top: 1816px;
+        width: 335px;
       }
       .landing-page-design .group-50 {
         height: 98px;
-        left: 39px;
+        left: 20px;
         position: absolute;
         top: 39px;
-        width: 354px;
+        width: 335px;
       }
       .landing-page-design .get-your-daily-dose {
         color: #5a5a5d;
         font-family: "Mulish-Regular", Helvetica;
-        font-size: 16px;
+        font-size: 14px;
         font-weight: 400;
         left: 0;
         letter-spacing: 0;
-        line-height: 26px;
+        line-height: 24px;
         position: absolute;
         top: 46px;
-        width: 350px;
+        width: 270px;
       }
       .landing-page-design .line {
         height: 1px;
-        left: 39px;
+        left: 0px;
         object-fit: cover;
         position: absolute;
         top: 160px;
-        width: 393px;
+        width: 288px;
       }
       .landing-page-design .group-51 {
         height: 52px;
-        left: 39px;
+        left: 0px;
         position: absolute;
         top: 185px;
-        width: 393px;
+        width: 288px;
       }
       .landing-page-design .group-52 {
         height: 52px;
-        width: 395px;
+        width: 288px;
       }
       .landing-page-design .overlap-group-4 {
         background-color: #1313180d;
         border-radius: 8px;
         height: 52px;
         position: relative;
-        width: 393px;
+        width: 288px;
       }
       .landing-page-design .text-wrapper-35 {
         color: #1313184c;
         font-family: "Mulish-Regular", Helvetica;
-        font-size: 16px;
+        font-size: 14px;
         font-weight: 400;
-        left: 20px;
+        left: 10px;
         letter-spacing: 0;
         line-height: normal;
         position: absolute;
@@ -2491,23 +2493,23 @@
       }
       .landing-page-design .group-53 {
         height: 52px;
-        left: 39px;
+        left: 0px;
         position: absolute;
         top: 253px;
-        width: 393px;
+        width: 288px;
       }
       .landing-page-design .group-54 {
         background-color: #ff5400;
         border-radius: 8px;
         height: 52px;
-        left: 39px;
+        left: 0px;
         position: absolute;
         top: 329px;
-        width: 393px;
+        width: 288px;
       }
       .landing-page-design .group-55 {
         height: 25px;
-        left: 148px;
+        left: 0px;
         position: relative;
         top: 14px;
         width: 98px;
