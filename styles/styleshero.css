@@ -1902,14 +1902,14 @@
       .landing-page-design .text-wrapper-21 {
         color: #ffffff;
         font-family: "Mulish-ExtraBold", Helvetica;
-        font-size: 28px;
+        font-size: 24px;
         font-weight: 800;
-        left: 137px;
+        left: 50px;
         letter-spacing: 0;
         line-height: normal;
         position: absolute;
         text-align: center;
-        top: 124px;
+        top: 110px;
       }
       .landing-page-design .group-13 {
         background-color: #fbb5630d;
@@ -2078,6 +2078,7 @@
       .landing-page-design .overlap-group-2 {
         background-color: #ff5400;
         border-radius: 8px;
+        border-color:#ff5400;
         height: 40px;
         position: relative;
         width: 130px;
@@ -2087,6 +2088,8 @@
         text-align: center;
         font-family: Mulish;
         font-size: 18px;
+        margin-top: 0px;
+        margin-bottom: 10px;
         font-style: normal;
         font-weight: 700;
         line-height: normal;
@@ -2181,6 +2184,7 @@
       .landing-page-design .overlap-group-3 {
         background-color: #ff5400;
         border-radius: 8px;
+        border-color: #ff5400;
         height: 52px;
         position: relative;
         width: 210px;
@@ -2235,6 +2239,7 @@
       .landing-page-design .group-35 {
         border-radius: 8px;
         background: #FF5400;
+        border-color: #FF5400;
         border-radius: 8px;
         height: 52px;
         left: 0;
@@ -2460,14 +2465,14 @@
         left: 0px;
         object-fit: cover;
         position: absolute;
-        top: 160px;
+        top: 120px;
         width: 288px;
       }
       .landing-page-design .group-51 {
         height: 52px;
         left: 0px;
         position: absolute;
-        top: 185px;
+        top: 150px;
         width: 288px;
       }
       .landing-page-design .group-52 {
@@ -2496,24 +2501,26 @@
         height: 52px;
         left: 0px;
         position: absolute;
-        top: 253px;
+        top: 223px;
         width: 288px;
       }
       .landing-page-design .group-54 {
         background-color: #ff5400;
-        border-radius: 8px;
+        border-radius: 16px;
+        border-color:#ff5400;
         height: 52px;
         left: 0px;
         position: absolute;
-        top: 329px;
+        top: 300px;
         width: 288px;
       }
       .landing-page-design .group-55 {
         height: 25px;
-        left: 0px;
+        left: 80px;
         position: relative;
-        top: 14px;
         width: 98px;
+        text-align: center;
+        margin-bottom: 30px;
       }
       .landing-page-design .overlap-11 {
         background-color: #1313180d;
@@ -2526,14 +2533,14 @@
       }
       .landing-page-design .overlap-12 {
         height: 24px;
-        left: 40px;
+        left: 80px;
         position: absolute;
-        top: 65px;
+        top: 145px;
         width: 335px;
       }
       .landing-page-design .social {
         height: 24px;
-        left: 73px;
+        left: 100px;
         position: absolute;
         top: 0;
         width: 174px;
@@ -2551,12 +2558,12 @@
         font-family: "Mulish-Regular", Helvetica;
         font-size: 14px;
         font-weight: 400;
-        left: 60px;
+        left: 110px;
         letter-spacing: 0;
         line-height: 24px;
         position: absolute;
         text-align: center;
-        top: 114px;
+        top: 44px;
         width: 335px;
       }
       .landing-page-design .group-56 {
@@ -2601,22 +2608,22 @@
       .landing-page-design .line-3 {
         background: rgba(19, 19, 24, 0.10);
         height: 1px;
-        left: 284px;
+        left: 100px;
         object-fit: cover;
         position: absolute;
-        top: 322px;
-        width: 872px;
+        top: 182px;
+        width: 335px;
       }
       .landing-page-design .text-wrapper-38 {
         color: #131318;
         font-family: "Inter-Light", Helvetica;
         font-size: 16px;
         font-weight: 300;
-        left: 624px;
+        left: 175px;
         letter-spacing: 0;
         line-height: normal;
         position: absolute;
-        top: 372px;
+        top: 210px;
         white-space: nowrap;
       }
       .landing-page-design .group-58 {
