@@ -1333,7 +1333,7 @@
     width: 56px;
   }
 
-  @media screen and (max-width:576px) {
+  @media screen and (max-width:600px) {
     .landing-page-design {
         background-color: #ffffff;
         display: flex;
