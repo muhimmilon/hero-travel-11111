@@ -2378,35 +2378,36 @@
         background-image: url(../Images/Rectangle\ 8\ \(1\).png);
         background-position: 50% 50%;
         background-size: cover;
-        height: 422px;
-        left: 500px;
+        border-radius: 16px;
+        height: 250px;
+        left: 0px;
         position: absolute;
-        top: 1716px;
-        width: 672px;
+        top: 2276px;
+        width: 335px;
       }
       .landing-page-design .group-47 {
         background-color: #ff5400;
         border-radius: 16px;
-        height: 120px;
-        left: 338px;
+        height: 80px;
+        left: 100px;
         position: relative;
-        top: 251px;
+        top: 131px;
         transform: rotate(-19.63deg);
-        width: 324px;
+        width: 224px;
       }
       .landing-page-design .group-48 {
         height: 74px;
         left: 40px;
         position: relative;
-        top: 23px;
+        top: 15px;
         width: 248px;
       }
       .landing-page-design .text-wrapper-33 {
         color: #ffffff;
         font-family: "Mulish-Regular", Helvetica;
-        font-size: 24px;
+        font-size: 14px;
         font-weight: 400;
-        left: 62px;
+        left: 30px;
         letter-spacing: 0;
         line-height: normal;
         position: absolute;
@@ -2416,13 +2417,13 @@
       .landing-page-design .text-wrapper-34 {
         color: #ffffff;
         font-family: "Mulish-ExtraBold", Helvetica;
-        font-size: 32px;
+        font-size: 20px;
         font-weight: 800;
         left: 0;
         letter-spacing: 0;
         line-height: normal;
         position: absolute;
-        top: 34px;
+        top: 30px;
         white-space: nowrap;
       }
       .landing-page-design .group-49 {
@@ -2516,23 +2517,23 @@
       }
       .landing-page-design .overlap-11 {
         background-color: #1313180d;
-        height: 502px;
-        left: 0;
-        text-align: center;
+        background-position: 100% 100%;
+        height: 250px;
+        left: -120px;
         position:absolute;
-        top: 538px;
-        width: 1440px;
+        top: 738px;
+        width: 576px;
       }
       .landing-page-design .overlap-12 {
         height: 24px;
-        left: 60px;
+        left: 40px;
         position: absolute;
-        top: 249px;
-        width: 1320px;
+        top: 65px;
+        width: 335px;
       }
       .landing-page-design .social {
         height: 24px;
-        left: 573px;
+        left: 73px;
         position: absolute;
         top: 0;
         width: 174px;
@@ -2542,28 +2543,27 @@
         object-fit: cover;
         position: absolute;
         top: 0;
-        width: 872px;
-        width: 1320px;
+        width: 72px;
         height: 1px;
       }
       .landing-page-design .text-wrapper-36 {
         color: #5a5a5d;
         font-family: "Mulish-Regular", Helvetica;
-        font-size: 16px;
+        font-size: 14px;
         font-weight: 400;
-        left: 335px;
+        left: 60px;
         letter-spacing: 0;
-        line-height: 26px;
+        line-height: 24px;
         position: absolute;
         text-align: center;
-        top: 164px;
-        width: 769px;
+        top: 114px;
+        width: 335px;
       }
       .landing-page-design .group-56 {
         height: 40px;
-        left: 600px;
+        left: 165px;
         position: absolute;
-        top: 110px;
+        top: 20px;
         width: 241px;
       }
       .landing-page-design .hero-travel-wrapper {
